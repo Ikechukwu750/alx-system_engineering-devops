@@ -1,2 +1,2 @@
 #!/bin/bash
-cd welcome/to/school/
+cd -p welcome/to/school
